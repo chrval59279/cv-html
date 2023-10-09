@@ -1,0 +1,39 @@
+h1
+{
+	color:blue;
+	text-align: center;
+}
+#testeur
+{
+
+	text-align: center;
+}
+body
+{
+	background-image: url("fond.jpg");
+	font-family: advent_proregular;
+	font-size: 20px
+	
+}
+.green_dots
+{
+	border: 3px green dotted;
+
+}
+
+h2{
+	text-shadow: 2px 10px 5px black
+}
+
+@font-face {
+    font-family: 'advent_proregular';
+    src: url('font/adventpro-regular-webfont.eot');
+    src: url('font/adventpro-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/adventpro-regular-webfont.woff2') format('woff2'),
+         url('font/adventpro-regular-webfont.woff') format('woff'),
+         url('font/adventpro-regular-webfont.ttf') format('truetype'),
+         url('font/adventpro-regular-webfont.svg#advent_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
