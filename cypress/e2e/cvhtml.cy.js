@@ -1,7 +1,7 @@
 describe('CV i html', () => {
 
   beforeEach(()=>{
-    cy.visit('localhost:8080/cv.html')
+    cy.visit('localhost:8080/cv/cv.html')
 
   })
   it('GUI tests', () => {
